@@ -1,0 +1,24 @@
+{
+  "name": "multer-nodejs-postman",
+  "version": "1.0.0",
+  "description": "'Multer basic practice'",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "multer",
+    "postman"
+  ],
+  "author": "PASCHAL OGBA",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "mongoose": "^7.5.1",
+    "multer": "^1.4.5-lts.1"
+  }
+}
